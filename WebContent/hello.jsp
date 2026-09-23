@@ -5,15 +5,11 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>INDEX</title>
+		<title>HelloStruts</title>
 	</head>
 	<body>
-		<s:form action="HelloStrutsAction">
-			<s:submit value="HelloStruts" />
-		</s:form>
+		<h1>HelloSturts2!</h1><br>
+		<h3>MySQLと接続できます。</h3>
 
-		<s:form action="WelcomeAction">
-			<s:submit value="Welcome"/>
-		</s:form>
 	</body>
 </html>
