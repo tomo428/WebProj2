@@ -16,7 +16,7 @@ public class InquiryCompleteAction extends ActionSupport {
 		if(count > 0) {
 			ret = SUCCESS;
 		}
-		return SUCCESS;
+		return ret;
 	}
 
 	public String getName() {
